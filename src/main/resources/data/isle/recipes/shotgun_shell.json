@@ -1,0 +1,3 @@
+{ "type":"minecraft:crafting_shapeless",
+  "ingredients":[{"item":"minecraft:gunpowder"},{"item":"minecraft:paper"},{"item":"minecraft:iron_nugget"}],
+  "result":{"item":"isle:shotgun_shell","count":4} }

@@ -1,0 +1,3 @@
+{ "type":"minecraft:crafting_shapeless",
+  "ingredients":[{"item":"minecraft:gunpowder"},{"item":"minecraft:iron_ingot"},{"item":"minecraft:gold_nugget"}],
+  "result":{"item":"isle:smg_ammo","count":12} }

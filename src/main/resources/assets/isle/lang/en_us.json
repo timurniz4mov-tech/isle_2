@@ -1,0 +1,13 @@
+{
+  "itemGroup.isle": "Isle",
+  "item.isle.rifle": "Rifle",
+  "item.isle.smg": "Submachine Gun",
+  "item.isle.shotgun": "Shotgun",
+  "item.isle.rifle_ammo": "Rifle Ammo",
+  "item.isle.smg_ammo": "SMG Ammo",
+  "item.isle.shotgun_shell": "Shotgun Shell",
+  "item.isle.journal": "Journal Page",
+  "item.isle.bandage": "Bandage",
+  "item.isle.stalker_spawn_egg": "Stalker Spawn Egg",
+  "entity.isle.stalker": "Stalker"
+}

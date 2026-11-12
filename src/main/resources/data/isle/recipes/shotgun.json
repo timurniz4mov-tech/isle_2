@@ -1,0 +1,4 @@
+{ "type":"minecraft:crafting_shaped","pattern":["IIB","BST"],
+  "key":{"I":{"item":"minecraft:iron_ingot"},"B":{"item":"minecraft:iron_block"},
+         "S":{"item":"minecraft:stick"},"T":{"item":"minecraft:tripwire_hook"}},
+  "result":{"item":"isle:shotgun","count":1} }

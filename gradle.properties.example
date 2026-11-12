@@ -1,0 +1,7 @@
+# Подставь эти значения в gradle.properties из MDK 1.20.1-47.x
+mod_id=isle
+mod_name=Isle
+mod_version=0.1.0
+mod_group_id=com.isle.mod
+mod_authors=you
+mod_description=Isle - survival horror: guns, journals, a stalker.

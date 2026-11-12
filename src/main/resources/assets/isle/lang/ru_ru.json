@@ -1,0 +1,13 @@
+{
+  "itemGroup.isle": "Isle",
+  "item.isle.rifle": "Винтовка",
+  "item.isle.smg": "Пистолет-пулемёт",
+  "item.isle.shotgun": "Дробовик",
+  "item.isle.rifle_ammo": "Винтовочные патроны",
+  "item.isle.smg_ammo": "Патроны для ПП",
+  "item.isle.shotgun_shell": "Картечь",
+  "item.isle.journal": "Страница дневника",
+  "item.isle.bandage": "Бинт",
+  "item.isle.stalker_spawn_egg": "Яйцо призыва Сталкера",
+  "entity.isle.stalker": "Сталкер"
+}
